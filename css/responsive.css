@@ -1,0 +1,567 @@
+
+/*  */
+
+@media (max-width: 1023px) {
+
+  .burger {
+    display: block;
+  }
+
+  .header-section {
+    height: 100vh;
+  }
+
+  .product-logo {
+    display: inline;
+  }
+
+
+  .kera-order-info {
+    display: inline;
+
+
+  }
+
+
+  .kera-order-info ul li {
+    margin-top: 30px;
+    text-align: center;
+
+  }
+
+  .order-now {
+    width: 153px;
+    font-size: 1.3rem;
+    margin: auto;
+
+  }
+
+
+
+  .order-list {
+    display: inline;
+  }
+
+  .kerassentials-hero {
+    display: inline;
+
+  }
+
+  .kerassentials-left {
+    width: 100%;
+    margin: 0;
+
+  }
+
+  .kerassentials-left img {
+    margin-top: 80px;
+  }
+
+  .kerassentials-right {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .discovery {
+    display: inline;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .sd-left {
+    width: 90%;
+    margin: auto;
+    padding: 50px 0px;
+  }
+
+  .sd-right {
+    width: 80%;
+    margin: auto;
+  }
+
+  .created-bg {
+    height: 800px;
+  }
+
+  .why-kerassentials {
+    display: inline;
+    margin: 50px 20px 50px 20px;
+    padding: 70px;
+
+
+
+  }
+
+  .wk-right {
+    text-align: center;
+  }
+
+  .wk-right img {
+    margin-top: 30px;
+    max-height: 170px;
+
+  }
+
+  .wk-left h1 {
+    font-size: 2rem;
+  }
+
+  .wk-left p {
+    padding-left: 10px;
+  }
+
+  .ingredients-items {
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .ingredients-items-new {
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .ingredients-discription {
+    width: 60%;
+    margin: auto;
+  }
+
+  .ingredients-discription h4 {
+    width: 100%;
+
+  }
+
+  .kerassentials-specification-bg {
+    height: 660px;
+  }
+
+
+
+  .kerassentials-dis {
+    display: inline;
+  }
+
+  .kerassentials-users-images img {
+    display: none;
+  }
+
+  .kerassentials-users-images-mob img {
+    display: block;
+    max-height: 431px;
+    width: 100%;
+    margin: auto;
+  }
+
+
+  .kerassentials-users-heading {
+    font-size: 1rem;
+    text-align: center;
+    line-height: 2.8rem;
+
+  }
+
+  .kerassentials-reviewone {
+    width: 95%;
+
+  }
+
+  .kerassentials-review-image {
+    display: none;
+  }
+
+
+  /*  */
+  .kerassentials-order-heading h1 {
+    font-size: 1.5rem;
+  }
+
+  .kerassentials-order-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 95%;
+    margin: auto;
+    padding: 10px 0px 10px 0px;
+    flex-wrap: nowrap;
+    margin-top: 15px;
+  }
+
+  .kerassentials-order-bottles {
+    padding: 0px;
+  }
+
+  .kerassentials-order-bottles h1 {
+    font-size: 1.3rem;
+  }
+
+  .kerassentials-order-bottles p {
+    font-size: 1.2rem;
+  }
+
+
+
+  .kerassentials-bottle-images img {
+    max-height: 200px;
+  }
+
+
+  .kerassentials-order-buynow img {
+    max-height: 70px;
+  }
+
+  .kerassentials-order-box {
+    display: inline;
+
+  }
+
+
+  .kerassentials-moneyback-bg {
+    height: 670px;
+
+
+  }
+
+  .kerassentials-moneyback-info {
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+  }
+
+
+  .moneyback-image img {
+    max-height: 170px;
+  }
+
+
+  .kerassentials-moneyback-details h1 {
+    font-size: 2rem;
+
+  }
+
+  .kerassentials-moneyback-details p {
+    padding-top: 10px;
+    font-size: 1.1rem;
+    line-height: 2.2rem;
+  }
+
+
+  .cirtification-image {
+    padding: 40px 0px 40px 0px;
+
+  }
+
+  .cirtification-image img {
+    max-height: 120px;
+
+  }
+
+
+  .kerassentials-bottle-image img {
+    max-height: 550px;
+
+  }
+
+
+  .kerassentials-faq-heading h1 {
+    font-size: 2rem;
+    padding: 50px 0px 10px 0px;
+  }
+
+  .kerassentials-asked h2 {
+    font-size: 1.5rem;
+    padding: 15px 20px 10px 20px;
+
+  }
+
+  .kerassentials-asked p {
+    font-size: 1.3rem;
+    padding: 2px 55px 5px 55px;
+
+
+  }
+
+  .kerassentials-scientific-referance-logo img {
+    max-height: 40px;
+  }
+
+  .footer-info-list {
+
+    padding: 40px 10px 40px 10px;
+  }
+
+  .kerassentials-footer-info ul li a {
+    font-size: .89rem;
+  }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*    */
+
+@media (max-width: 600px) {
+  .why-kerassentials {
+    padding: 30px 5px 30px 5px;
+
+  }
+
+  .wk-left p {
+    padding-left: 0px;
+  }
+
+
+  .header-section {
+    height: 60vh;
+  }
+
+  .ingredients-discription {
+    width: 80%;
+
+
+  }
+
+  .kerassentials-specification-bg {
+    height: 550px;
+  }
+
+
+  .kerassentials-specification-discription {
+    width: 95%;
+    padding: 1.9rem 1.2rem 1.2rem 1.2rem;
+    margin: auto;
+
+  }
+
+  .kerassentials-specification-discription h1 {
+    font-size: 2rem;
+    text-align: center;
+    padding-bottom: 2rem;
+  }
+
+  .kerassentials-list-discription p {
+    padding: 0px;
+    font-size: 1rem;
+  }
+
+  .kerassentials-review-image {
+    display: none;
+  }
+
+  .kerassentials-bottle-images img {
+    max-height: 130px;
+  }
+
+
+  .kerassentials-order-buynow img {
+    max-height: 50px;
+  }
+
+  .kerassentials-cards img {
+    max-height: 30px;
+  }
+
+  .kerassentials-order-heading h1 {
+    font-size: 1.4rem;
+  }
+
+  .kerassentials-customer-say-image img {
+    max-height: 30px;
+  }
+
+  .kerassentials-customer-says p {
+    font-size: 1.3rem;
+  }
+
+  .cirtification-image {
+    padding: 30px 0px 30px 0px;
+
+  }
+
+  .cirtification-image img {
+    max-height: 90px;
+
+  }
+
+  .kerassentials-bottle-image img {
+    max-height: 380px;
+
+  }
+
+  .kerassentials-faq-heading h1 {
+    font-size: 1.5rem;
+    padding: 50px 0px 10px 0px;
+  }
+
+  .kerassentials-asked h2 {
+    font-size: 1.1rem;
+    padding: 15px 20px 10px 20px;
+
+  }
+
+  .kerassentials-asked p {
+    font-size: 1rem;
+    padding: 2px 10px 5px 10px;
+
+
+  }
+
+
+  .kerassentials-scientific-referance-logo img {
+    max-height: 25px;
+  }
+
+
+  .kerassentials-scientific-referance-detials {
+    display: inline;
+
+  }
+
+
+  .kerassentials-scientific-referacne-left {
+    padding: 55px 10px 5px 30px;
+    width: 100%;
+  }
+
+  .kerassentials-scientific-referacne-right {
+    padding: 15px 10px 5px 30px;
+    width: 100%;
+  }
+
+
+  .footer-info-list {
+    display: inline;
+    text-align: center;
+    padding: 40px 30px 40px 30px;
+  }
+
+  .kerassentials-footer-info ul li {
+    padding: 0px 0px 10px 0px;
+
+  }
+
+
+  .kerassentials-footer-info ul li a {
+    font-size: 1.1rem;
+    padding: 0px 0px 10px 0px;
+
+  }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  Width 390px  */
+
+@media (max-width: 390px) {
+
+
+  .header-section {
+    height: 50vh;
+  }
+
+  .kerassentials-bottle-images img {
+    max-height: 100px;
+  }
+
+  .kerassentials-order-buynow img {
+    max-height: 40px;
+  }
+
+  .kerassentials-bottle-price img {
+    max-height: 35px;
+  }
+
+  .kerassentials-cards img {
+    max-height: 25px;
+  }
+
+  .kerassential-total-price {
+    padding: 2px;
+
+  }
+
+  .kerassential-total-price p {
+    font-size: 1.2rem;
+  }
+
+  .kerassentials-moneyback-bg {
+    height: 810px;
+
+  }
+
+  .cirtification-image img {
+    max-height: 60px;
+
+  }
+
+  .kerassentials-bottle-image img {
+    max-height: 280px;
+
+  }
+
+  .kerassentials-scientific-referance-logo img {
+    max-height: 20px;
+  }
+
+
+}
+
+
+
+
+@media (max-width: 420px) {
+
+  .header-section {
+    height: 60vh;
+  }
+}
